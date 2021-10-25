@@ -2,9 +2,13 @@
 Overview In this milestone, I designed and developed the second release of their C programming application. 
 ______________________________________________
 Marc Mason
+
 ITT-310
+
 Professor Wright	
+
 October 24, 2021
+
 Milestone 3: Application Release 2
 _______________________________________________
 Overview
